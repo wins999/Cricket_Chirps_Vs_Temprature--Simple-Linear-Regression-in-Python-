@@ -1,6 +1,6 @@
 # Cricket Chirps Vs Temprature Simple Linear regression
 
-In this project I we use the Cricket Chirps Vs Temprature data create a Simple Linear Regression model and test how well will the model predict the Temprature on given Cricket Chirps :sunglasses: <br>
+In this project I we use the Cricket Chirps Vs Temprature data create a Simple Linear Regression model and test how well will the model predict the Temprature on given Cricket Chirps count :sunglasses: <br>
 This is a Cricket Insect :cold_sweat: <br> <br>
 ![](Cricket.jpg)
 
