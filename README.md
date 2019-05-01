@@ -25,4 +25,4 @@ The model created in the given code was given the data of training set and the d
 The model then  was given the data of test set and the data visualization graph is below :white_check_mark:
 ![](Testset.png)
 
-### For any queries please feel free to mail me :thumbsup:
+### I have put comments for better coder readability if any queries please feel free to email me :thumbsup:
