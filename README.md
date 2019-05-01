@@ -17,7 +17,7 @@ Libraries required in python are numpy, matplotlib.pyplot, pandas please downloa
 Based on the Cricket Chirps given temprature  and the temprature predicted by our model are compared.:white_check_mark:<br>
 Cricket Chirps (x_test) at left <br>
 Given Test Temprature (y_test)in middle <br>
-Predicted Temprature  (y_pred_test_data) at right <br>
+Predicted Temprature  (y_pred_test_data) at right <br> <br>
 ![](Actual_Vs_Predicted.PNG)
 The model created in the given code was given the data of training set and the data visualization graph is below :white_check_mark:
 ![](Trainingset.png)
