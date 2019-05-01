@@ -11,6 +11,9 @@ Download and Install Anaconda https://www.anaconda.com/<br>
 Spyder 3.3.4 <br>
 Python 3.6<br>
 Libraries required in python are numpy, matplotlib.pyplot, pandas please download it before importing
+Cricket Chirps Vs. Temperature data where,<br> 
+X = chirps/sec for the striped ground cricket<br>
+Y = temperature in degrees Fahrenheit<br> 
 
 ### Results 
 
